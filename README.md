@@ -1,6 +1,6 @@
 # 🧑🏾‍💻 Pedro Henrique
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Front End`**
 
 Me chamo Pedro Henrique, tenho 23 anos, sou de Salvador, Bahia. Atualmente finalizando os estudos em Desenvolvimento FullStack na Infinity School, e em breve retornando para a Faculdade de Engenharia da Computação. Sempre fui apaixonado por tecnologia e conheci a programação em 2022, desde então, venho me aperfeiçoando continuamente.
 
